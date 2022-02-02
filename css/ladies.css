@@ -1,0 +1,55 @@
+/** Types of footwear begin **/
+.footwear-types{
+    margin: 30px 10px 0px 10px;
+}
+.footwear-types img{
+    width: 100%;
+}
+.footwear-types .footwear-img{
+    position: relative;
+}
+.footwear-types .ladies-details{
+    position: absolute;
+    top: 150px;
+}
+.ladies-name{
+    background: #fff;
+}
+.ladies-name h1{
+    color: #ff970e;
+    font-size: 16px;
+    text-transform: uppercase;
+    padding-bottom: 5px;
+}
+  .footwear-off{
+    background: #ff970e;
+  }
+  .footwear-off h1{
+    color: #fff;
+    font-size: 16px;
+    text-transform: uppercase;
+    padding-bottom: 5px;
+  }
+  .terms-and-condition{
+    position: absolute;
+    bottom: 0px;
+    left: 40%;
+    color: rgb(22, 22, 22);
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-size: 10px;
+  }
+  .footwear-btn:hover{
+    text-decoration: none;
+    list-style: none;
+    color: #fff;
+  }
+  /** Types of footwear over **/
+
+.ladies-about{
+    margin: 50px 20px 40px 20px;
+}
+.ladies-about h1{
+    color: rgb(29, 29, 29);
+    font-size: 40px;
+}
